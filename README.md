@@ -1,2 +1,0 @@
-# CVRCESymptomms
-Created with CodeSandbox
